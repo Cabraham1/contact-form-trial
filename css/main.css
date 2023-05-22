@@ -326,3 +326,109 @@ li {
   list-style: inside url("../media/svg/circle.svg");
 }
 
+/* =====contact me section====  */
+
+.contact {
+  background-color:#ffffff;
+  padding-top: 80px;
+  min-height: 779px;
+}
+
+.contact-container {
+  background-color: #fffdfc;
+  min-height: 779px;
+  border-top-left-radius: 150px;
+  object-fit: cover;
+}
+
+.contact-container h2 {
+  padding-top: 103px;
+  color: #ffff;
+  text-align: center;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.contact-P {
+  padding-top: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:#172B4D;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+}
+
+/* form section */
+
+.contact-form {
+  height: 100%;
+  margin-top: 2rem;
+}
+
+.form-section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+input {
+  height: 2.9rem;
+  width: 20rem;
+  border: 0;
+  outline: 0;
+  border-bottom: 2px solid #DBD8D7;
+  padding-left: 1rem;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  outline: none;
+}
+
+textarea {
+  width: 20rem;
+  height: 13rem;
+  border-radius: 5px;
+  border-style: none;
+  background-color: #FBF8F7;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  outline: none;
+}
+
+.getInTouch {
+  margin-top: 1rem;
+  border: 2px solid#1c1a19;
+  border-radius: 8px;
+  color: #1c1a19;
+  text-align: center;
+  justify-content: center;
+  padding: 1rem;
+  width: 10rem;
+  background-color: #fff;
+  margin-left: 10rem;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+}
+
+.getInTouch:hover {
+  background-color: #1c1a19;
+  color: #fff;
+  transition: 0.5s;
+  border: 1px solid#fff;
+}
