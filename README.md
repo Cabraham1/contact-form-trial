@@ -27,9 +27,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Mobile-First-Portfolio] <a name="about-project"></a>
 
