@@ -329,7 +329,7 @@ li {
 /* =====contact me section====  */
 
 .contact {
-  background-color:#ffffff;
+  background-color: #fff;
   padding-top: 80px;
   min-height: 779px;
 }
@@ -356,7 +356,7 @@ li {
   padding-top: 12px;
   padding-left: 10px;
   padding-right: 10px;
-  color:#172B4D;
+  color: #172b4d;
   font-family: 'Poppins', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -383,8 +383,7 @@ input {
   height: 2.9rem;
   width: 20rem;
   border: 0;
-  outline: 0;
-  border-bottom: 2px solid #DBD8D7;
+  border-bottom: 2px solid #dbd8d7;
   padding-left: 1rem;
   font-size: 17px;
   font-weight: 400;
@@ -399,7 +398,7 @@ textarea {
   height: 13rem;
   border-radius: 5px;
   border-style: none;
-  background-color: #FBF8F7;
+  background-color: #fbf8f7;
   padding-top: 1rem;
   padding-left: 1rem;
   font-size: 17px;
