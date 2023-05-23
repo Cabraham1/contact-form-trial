@@ -13,15 +13,11 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+  - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -40,12 +36,19 @@ This project aims to build a simple, one-page responsive portfolio website to sh
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Key Features <a name="key-features"></a>
+- The website is responsive and displays images, descriptions and links to each of the portfolio projects completed throughout the course.
+- All links in the navigation menu and the footer work.
+- When clicking on the links in the navigation menu, the user is taken to the corresponding section of the landing page.
+
 ## 🚀 Live Demo <a name="#live-demo"></a>
 [Live Demo Link](coming soon)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🛠 Built With <a name="built-with"></a>
+
+## Tech Stack <a name="tech-stack"></a>
 
 - HTML & CSS & JavaScript
 - Git, Github and Visual Studio Code
@@ -70,7 +73,10 @@ To get a local copy up and running follow these simple example steps.
 - get into to directory "Mobile-First-Portfolio"
 - write: npm install
 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- AUTHORS -->
 
