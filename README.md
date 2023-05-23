@@ -40,7 +40,7 @@ This project aims to build a simple, one-page responsive portfolio website to sh
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demoemo <a name="#live-demo"></a>
+## 🚀 Live Demo <a name="#live-demo"></a>
 [Live Demo Link](coming soon)
 
 
@@ -55,8 +55,6 @@ This project aims to build a simple, one-page responsive portfolio website to sh
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -78,12 +76,20 @@ To get a local copy up and running follow these simple example steps.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Christopher Abraham**
 
 - GitHub: [@githubhandle](https://github.com/cabraham1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abrahamchristopher)
+
+
+## 🤝Future Features <a name="Future feature"></a>
+
+- Add a contact form
+- Add a footer
+- Add a hamburger menu for mobile devices
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
